@@ -1,0 +1,25 @@
+{
+  "name": "testingpractice",
+  "version": "1.0.0",
+  "description": "1. Clone repo ``` git clone https://github.com/mrnadaara/TestingPractice.git ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnadaara/TestingPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrnadaara/TestingPractice/issues"
+  },
+  "homepage": "https://github.com/mrnadaara/TestingPractice#readme",
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "jest": "^26.0.1"
+  }
+}
